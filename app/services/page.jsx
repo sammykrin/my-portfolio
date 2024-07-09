@@ -7,25 +7,25 @@ const services = [
   {
     num: "01",
     title: "web developement",
-    description:  "This is me trjbhcvbjgdvbdjgv",
+    description:  "Power networks & devices also help in design, progarm, depoly & maintain softwares using different tools.",
     href: "",
   },
   {
     num: "02",
     title: "Zebra Multiservice",
-    description:  "This is me trjbhcvbjgdvbdjgv",
+    description:  "General service firm, especially in the area of consultancy and project management.",
     href: "",
   },
   {
     num: "03",
-    title: "web developement",
-    description:  "This is me trjbhcvbjgdvbdjgv",
+    title: "La plage Meta verse",
+    description:  "A professional institution in Nigeria. Offering a high-quality, flexible and educational experience.",
     href: "",
   },
   {
     num: "04",
-    title: "web developement",
-    description:  "This is me trjbhcvbjgdvbdjgv",
+    title: "Tobilad investment Ltd",
+    description:  "A professional catering & rental service which offers a quality, standard & flexible customer service.",
     href: "",
   },
 ];

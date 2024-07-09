@@ -22,7 +22,7 @@ import WorkSliderBtns from "@/components/WorkSliderBtns";
 const projects=[
   {
     num: "01",
-    category: "frontend",
+    category: "fullstack",
     title: "project 1",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ratione earum!",
     stack: [{name: "Html 5"}, {name: "Css 3"}, {name: "JavaScript"},],
