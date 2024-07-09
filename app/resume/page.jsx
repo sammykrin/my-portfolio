@@ -52,15 +52,15 @@ const about = {
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
-  description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Al?",
+  description: "The illiterate of the future will not be the person who cannot read. It will be the person who does not know how to learn.",
   items: [
     {
-      company: "Tech Solution Inc.",
-      position: "Full Stack Developer",
+      company: "Digit Info & Software Tech",
+      position: "Frontend Developer",
       duration: "2022-2024",
     },
     {
-      company: "E-commerce",
+      company: "E-commerce.",
       position: "Freelance",
       duration: "2021",
     },
@@ -81,7 +81,7 @@ const experience = {
 const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education / Certificate",
-  description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Al?",
+  description: "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
   items: [
     {
       institution: "La plage Meta verse",
@@ -100,7 +100,7 @@ const education = {
     },
     {
       institution: "Federal Government College Ogbomoso",
-      degree: "College",
+      degree: "GCSE",
       duration: "2011-2014",
     },
   ]
@@ -266,7 +266,7 @@ const Resume = () => {
                   <div className="flex flex-col gap-[30px]">
                     <h3 className="text-4xl font-bold">{about.title}</h3>
                     <p className="max-w-[600px] text-white/60 mx-auto xl:mx-0">{about.description}</p>
-                    <ul className="grid grid-cols-1 xl:grid-cols-2 gap-y-6 max-w-[620px] mx-auto xl:mx-0">
+                    <ul className="grid grid-cols-1 xl:grid-cols-2 gap-y-6 max-w-[710px] mx-auto xl:mx-0">
                       {about.info.map((item,idex)=>{
                         return(
                           <li key={idex} className="flex items-center justify-center xl:justify-start gap-4">
