@@ -26,7 +26,7 @@ const projects=[
     title: "Velocity-auotz",
     description: "Velocity-Autos: A modern car showcase platform that leverages all of the latest and greatest cars in the world.",
     stack: [{name: "Html 5"}, {name: "TypeScript"}, {name: "Tailwind CSS"},],
-    image: "/assets/work/hero.png",
+    image: "/assets/work/thumb1.png",
     live: "https://velocity-autoz.vercel.app/",
     github: "https://github.com/sammykrin/velocity_autos",
   },
