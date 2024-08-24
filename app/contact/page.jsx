@@ -24,7 +24,7 @@ const info=[
    {
     icon: <FaPhoneAlt />,
     title: "Phone",
-    description: "(+234) 810 236 4785",
+    description: "(+44) 7867 218625",
    },
    {
     icon: <FaEnvelope />,
@@ -34,7 +34,7 @@ const info=[
    {
     icon: <FaMapMarkedAlt />,
     title: "Address",
-    description: "Peace Villa Papa Ajishan",
+    description: "Cheltenham Gloucestershire, Uk.",
    },
 ]
 
