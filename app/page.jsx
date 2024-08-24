@@ -24,9 +24,9 @@ const Home = () => {
                 variant="outline" 
                 size="lg" 
                 className="uppercase flex items-center gap-2">
-                  <a href="/assets/resume/OLAMILEHIN SAMUEL OLAMIDE's resume.pdf" 
+                  <a href="/assets/resume/SAMUEL OLAMILEHIN Resume.pdf" 
                     target="_blank" 
-                    download="OLAMILEHIN SAMUEL OLAMIDE's resume.pdf" >download cv</a>
+                    download="SAMUEL OLAMILEHIN Resume.pdf" >download cv</a>
                 {/* <span>Download CV</span> */}
                 <FiDownload className="text-xl"/> 
               </Button>
