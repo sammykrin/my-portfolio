@@ -12,7 +12,7 @@ const stats = [
         text: "Repo completed",
     },
     {
-        num: 9,
+        num: 13,
         text: "Technologies mastered",
     },
     {

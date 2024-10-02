@@ -10,7 +10,10 @@ import {
   FaGithub,
 } from "react-icons/fa";
 
-import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
+import { SiTailwindcss, SiNextdotjs, SiMicrosoftazure,} from "react-icons/si";
+import { DiWindows } from "react-icons/di";
+import { RiCustomerService2Line } from "react-icons/ri";
+import { GiFirewall } from "react-icons/gi";
 
 //about 
 const about = {
@@ -146,6 +149,22 @@ const skills ={
     {
       icon: <SiTailwindcss />,
       name: "Tailwaind.css",
+    },
+    {
+      icon: <SiMicrosoftazure />,
+      name: "Microsoft Azure",
+    },
+    {
+      icon: <DiWindows />,
+      name: "Windows",
+    },
+    {
+      icon: <GiFirewall />,
+      name: "Firewall",
+    },
+    {
+      icon: <RiCustomerService2Line />,
+      name: "Customer Interaction",
     }
     
   ]
