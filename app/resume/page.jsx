@@ -8,6 +8,7 @@ import {
   FaBootstrap,
   FaNodeJs, 
   FaGithub,
+  FaUmbraco,
 } from "react-icons/fa";
 
 import { SiTailwindcss, SiNextdotjs, SiMicrosoftazure,} from "react-icons/si";
@@ -129,6 +130,10 @@ const skills ={
     {
       icon: <FaReact />,
       name: "React.js",
+    },
+    {
+      icon:<FaUmbraco />,
+      name: "Umbraco",
     },
     {
       icon: <FaBootstrap />,
